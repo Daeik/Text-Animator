@@ -1,0 +1,46 @@
+/*
+
+My css
+
+*/
+* {
+margin: 0; padding: 0;
+}
+
+
+section#ex {
+	width: 750px;
+	height: auto;
+	padding: 300px 0 ;
+	margin: 0 auto;
+	text-align: center;
+	background: black;
+	color: #fafafa;
+	border-radius: 50%;
+	font-size: 22px;
+}
+
+
+ul#nav {
+	cursor: pointer;
+	position: fixed;
+	bottom: 0;
+	padding: 40px 50px;
+}
+ul#nav li {
+	list-style: none;
+	float: left;
+	margin-right: 11px;
+
+}
+ul#nav li:hover { color: #FFA300; }
+
+header {
+	padding: 12px;
+	margin-bottom: 30px;
+}
+
+header h1 {
+	text-shadow: 2px 3px 0px #66CBEB;
+	color: #222;
+}
