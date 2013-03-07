@@ -1,5 +1,5 @@
 /**********************************
-*******Biding DOM to Elements******
+*******Biding DOM to the buttons******
 **********************************/
 
 $(document).ready(function() {
