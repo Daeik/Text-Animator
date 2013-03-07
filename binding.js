@@ -20,7 +20,7 @@ $(document).ready(function() {
 		ex.dimout().dimin().shatter(); 
 	});
 	
-	$('#reset').click(function() { reset(ex)) });
+	$('#reset').click(function() { reset(ex) });
 
 	$('#nav li').on('mouseenter',function() {
 		$(this).wave(null, 5, 200);
