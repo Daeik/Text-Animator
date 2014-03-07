@@ -1,6 +1,6 @@
-text_animator.js
-=============
+#text_animator.js
 
-jQuery Plugin for text animation.
 
-This jQuery plugin helps to apply text chaining animation easily.
+A jQuery Plugin for text animation.
+
+This jQuery plugin helps to animate text easily.
